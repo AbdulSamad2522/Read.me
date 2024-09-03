@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm AbdulSamad, a passionate web developer skilled in front-end and design tools.<br><br>🛠 Skills:<br><br>Languages & Libraries: HTML, CSS, JavaScript, jQuery, Bootstrap<br>Design: DOM manipulation, Figma<br>Tools & Platforms: Git, Netlify, Microsoft Office<br>📚 I love turning ideas into interactive and responsive web experiences. I’m constantly learning and exploring new technologies to enhance my development skills.<br><br>🌐 Check out my projects and let's connect!
+👋 Hi, I'm AbdulSamad, a passionate web developer skilled in front-end and design tools.<br>🛠 <strong>Skills</strong>:<br><br>Languages & Libraries: HTML, CSS, JavaScript, jQuery, Bootstrap<br>Design: DOM manipulation, Figma<br>Tools & Platforms: Git, Netlify, Microsoft Office<br>📚 I love turning ideas into interactive and responsive web experiences. I’m constantly learning and exploring new technologies to enhance my development skills.<br><br>🌐 Check out my projects and let's connect!
 
 
 ## 🌐 Socials:
